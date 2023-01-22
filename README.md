@@ -59,7 +59,7 @@ README.md
 </br>	
    
  
- ### Connect with me  :coffee:
+ <!--### Connect with me  :coffee:
 <p align="center">
 	<a href="https://github.com/ShivangeeRajput"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shivangee-rajput-96818a232/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
@@ -70,6 +70,6 @@ README.md
 
 </br>
 
-</br>
+</br-->
 
 
