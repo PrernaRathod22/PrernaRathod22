@@ -8,7 +8,7 @@ README.md
 
 📫 How to reach me: Just mail me! prernadarbar07@gmail.com 😄
 
-
+<!--
 ## **Tech Stack 💻**<br>
 
 <p align='center'>
@@ -56,7 +56,7 @@ README.md
 
 
 </br>
-</br>	
+</br-->	
    
  
  <!--### Connect with me  :coffee:
